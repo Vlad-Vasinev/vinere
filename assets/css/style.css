@@ -542,6 +542,11 @@
   margin-top: 38px;
   text-align: center;
 }
+.slider-btns .slider-btn {
+  display: grid !important; 
+  justify-content: center;
+  align-items: center;
+}
 .slider-btn {
   width: 56px;
   height: 56px;
