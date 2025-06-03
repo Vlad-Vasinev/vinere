@@ -9,4 +9,4 @@
 - js: for adding interactive elements, animations and user-friendly components 💡
 
 ## Pages:
-- index.html: [https://agave-liard.vercel.app/](https://vinere.vercel.app/)
+- index.html: [https://vinere.vercel.app/](https://vinere.vercel.app/)
